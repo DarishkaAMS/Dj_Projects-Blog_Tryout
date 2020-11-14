@@ -1,2 +1,2 @@
 # curly-invention-blog
-Blog tryout
+Completed Blog Tryout
